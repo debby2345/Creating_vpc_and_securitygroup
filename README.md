@@ -12,16 +12,16 @@ Below is the image
 
 ### Configure VPC Settings
 Selected 2 availability zones,
-Chose 2 subnets,
+Chooose 2 subnets,
 Selected 2 public subnets and 2 private subnets,
 Used default subnet CIDR blocks,
 Below is the image
 ![vpc Creation](/VPC_2.PNG)
 
 ### Configure NAT Gateway and Internet Gateway
-Chose "1 NAT gateway per AZ",
+Choose "1 NAT gateway per AZ",
 Selected "Yes" for internet gateway,
-Chose "S3 Gateway" for VPC endpoint,
+Choose "S3 Gateway" for VPC endpoint,
 Enabled DNS resolution,
 Below is the image
 ![vpc Creation](/VPC_3.PNG)
